@@ -34,7 +34,7 @@ Here are some of my notable projects:
 - **[Finance Visualizer](https://finance-visualizer-seven.vercel.app/)** - A web app to track and visualize financial data, helping users make better financial decisions.  
   
 
-🚀 **More Projects:** [Check out my GitHub](https://github.com/yourusername)  
+🚀 **More Projects -- COMING SOON** 
 
 
 ![video](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIwMWY3MmxmenoxOHZtMTJidTZtc25iYXdhemx5ajBkbTNlajZnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif) 
