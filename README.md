@@ -39,7 +39,8 @@ I am a passionate Full Stack Web Developer with a strong foundation in Frontend 
 
 Here are some of my notable projects:  
  
-- **[Finance Visualizer](https://finance-visualizer-seven.vercel.app/)** - A web app to track and visualize financial data, helping users make better financial decisions.  
+- **[Finance Visualizer](https://finance-visualizer-seven.vercel.app/)** - A web app to track and visualize financial data, helping users make better financial decisions.
+- **[🎬 MovieR](https://am5hubh.github.io/MovieR/)** - MovieR is a modern web application that allows users to discover, search, and explore movies with detailed insights like ratings, reviews, and trailers.
   
 
 🚀 **More Projects -- COMING SOON** 
