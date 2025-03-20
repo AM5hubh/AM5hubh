@@ -1,5 +1,5 @@
 
-![Logo](https://res.cloudinary.com/dvv99sjjl/image/upload/v1740322936/linkedin_banner_vyem4u.png)
+![Logo](https://photos.fife.usercontent.google.com/pw/AP1GczOqit5VUBFQ-rt_fFSI07apS5Ok-fNYNq-J0pd1UQg7NxhDY8jVghK9=w1584-h396-s-no-gm?authuser=0)
 
 
 # Hi there, Myself Shubham Tushar Sahamate! 👋
