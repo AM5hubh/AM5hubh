@@ -13,6 +13,16 @@ I am a passionate Full Stack Web Developer with a strong foundation in Frontend 
 📍 Based in Mumbai, India 🎓 B.Tech in Information Technology | Associate at NxtWave CCBP 4.0  Academy |💡 Always exploring new technologies and improving problem-solving skills.
 
 
+## 📊 GitHub Analytics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-sahamate)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShubhamSahamate)
