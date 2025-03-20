@@ -15,11 +15,11 @@ I am a passionate Full Stack Web Developer with a strong foundation in Frontend 
 
 ## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AM5hubh&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=AM5hubh&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM5hubh&layout=compact&theme=radical)  
 
 
 
