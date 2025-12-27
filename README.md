@@ -15,9 +15,8 @@ I am a passionate Full Stack Web Developer with a strong foundation in Frontend 
 
 ## 📊 GitHub Analytics  
 
-<div align="center">
-    <img src="https://ghchart.rshah.org/AM5hubh" alt="GitHub Analytics" />
-</div>
+<img src="https://ghchart.rshah.org/AM5hubh" alt="GitHub Analytics" />
+
 
 ![Github_Streak](https://nirzak-streak-stats.vercel.app/?user=AM5hubh&theme=radical&hide_border=false)
 
