@@ -15,12 +15,10 @@ I am a passionate Full Stack Web Developer with a strong foundation in Frontend 
 
 ## 📊 GitHub Analytics  
 
-<img src="https://ghchart.rshah.org/AM5hubh" alt="GitHub Analytics" />
-
-
-![Github_Streak](https://nirzak-streak-stats.vercel.app/?user=AM5hubh&theme=radical&hide_border=false)
-
+<!-- <img src="https://ghchart.rshah.org/AM5hubh" alt="GitHub Analytics" /> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM5hubh&layout=compact&theme=radical)  
+-->
+![Github_Streak](https://nirzak-streak-stats.vercel.app/?user=AM5hubh&theme=radical&hide_border=false)
 
 
 
@@ -50,3 +48,6 @@ Here are some of my notable projects:
 
 
 ![video](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIwMWY3MmxmenoxOHZtMTJidTZtc25iYXdhemx5ajBkbTNlajZnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif) 
+
+
+
